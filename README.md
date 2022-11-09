@@ -10,7 +10,7 @@ Comparing with other apps of this type, **Nite** is probably the most beautiful,
 
 ## How we use the API?
 
-We do not use the Riot Games API at all. All necessary images (skins, agents, ranks, maps, etc.) are taken from *https://valorant.fandom.com*. We only need permission in the form of a written license agreement or a valid Riot API key to use that intellectual property.
+We do not use the Riot Games API at all. All necessary images (skins, agents, ranks, maps, etc.) are downloaded from *https://valorant.fandom.com*. We only need permission in the form of a written license agreement or a valid Riot API key to use that intellectual property.
 
 ## Future plans
 
